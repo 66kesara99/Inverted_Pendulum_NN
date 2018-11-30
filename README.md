@@ -1,2 +1,10 @@
 # Inverted_Pendulum_NN
-CO542 Project
+
+## Running instructions
+
+Install python 3.6.7
+Install following libraries
+  tensorflow
+  numpy
+  tflearn
+  gym
